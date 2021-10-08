@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sale</string>
+    <string name="hint1">name</string>
+    <string name="nameCus">Name Customer</string>
+</resources>
